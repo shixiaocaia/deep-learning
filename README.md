@@ -12,7 +12,8 @@
    - https://github.com/apachecn/ailearning
    - https://github.com/ShusenTang/Dive-into-DL-PyTorch  
 
-
+- [梗直哥随笔](https://gengzhige-essay.readthedocs.io/index.html)
+- [王木头爱科学视频](https://space.bilibili.com/504715181/video)
 
 ## Python基础
 
